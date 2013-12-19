@@ -21,7 +21,7 @@
     <!-- General -->
     <skip />
     <!-- Application name -->
-    <string name="application_name" translatable="false">Trebuchet</string>
+    <string name="application_name" translatable="false">Hellfire Catapult</string>
     <!-- Accessibility-facing application name -->
     <string name="home">Home</string>
     <!-- Name for all applications running as this uid. -->
@@ -231,7 +231,7 @@ s -->
 
     <!-- Clings -->
     <!-- The title text for the workspace cling [CHAR_LIMIT=60] -->
-    <string name="first_run_cling_title">Welcome!</string>
+    <string name="first_run_cling_title">Welcome To HellFire!</string>
     <!-- The description of how to use the workspace [CHAR_LIMIT=60] -->
     <string name="first_run_cling_description">Make yourself at home.</string>
     <!-- The description of how to use the workspace [CHAR_LIMIT=60] -->
@@ -293,5 +293,5 @@ s -->
     <!-- Text for wallpaper change button -->
     <string name="wallpaper_button_text">Wallpapers</string>
     <!-- Text for settings button -->
-    <string name="settings_button_text">Settings</string>
+    <string name="settings_button_text">HellFire™ Settings</string>
 </resources>
