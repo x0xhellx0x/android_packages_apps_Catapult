@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App copyright -->
+    <string name="application_copyright">Copyright \u00A9 2013 The CyanogenMod Project</string>
+    <!-- App version -->
+    <string name="application_version" translatable="false">1.0</string>
+
+    <!-- Strings for the customization mode -->
+    <!-- Text for sorting mode button -->
+    <string name="sort_button_text">Sort</string>
+    <!-- Text for filter button -->
+    <string name="filter_button_text">Filter</string>
+    <!-- Text for default screen button -->
+    <string name="default_screen_button_text">Default Screen</string>
+
+    <string name="sort_mode_title">Title</string>
+    <string name="sort_mode_launch_count">Launch Count</string>
+    <string name="sort_mode_install_time">Install Time</string>
+
+    <!-- Settings -->
+    <string name="preferences_title">Settings</string>
+    <!-- UI -->
+    <string name="preferences_interface_title">Interface</string>
+    <!-- Application -->
+    <string name="preferences_application_title">App</string>
+
+    <!-- UI -->
+    <!-- Homescreen -->
+    <string name="preferences_interface_homescreen_title">Homescreen</string>
+    <string name="preferences_interface_homescreen_summary">Screens and wallpaper</string>
+    <string name="preferences_interface_homescreen_search_title">Search bar</string>
+    <string name="preferences_interface_homescreen_search_summary">Show persistent search bar at top of screen</string>
+    <string name="preferences_interface_homescreen_scrolling_category">Scrolling</string>
+    <string name="preferences_interface_homescreen_scrolling_wallpaper_scroll_title">Scroll wallpaper</string>
+    <string name="preferences_interface_homescreen_scrolling_wallpaper_scroll_summary">Pan wallpaper while scrolling homescreens</string>
+    <string name="preferences_interface_homescreen_scrolling_page_outlines_title">Page outlines</string>
+    <string name="preferences_interface_homescreen_scrolling_page_outlines_summary">Show page outlines while scrolling homescreens</string>
+
+    <!-- Drawer -->
+    <string name="preferences_interface_drawer_title">Drawer</string>
+
+    <!-- Dock -->
+    <string name="preferences_interface_dock_title">Dock</string>
+
+    <!-- General -->
+    <string name="preferences_interface_general_title">General</string>
+    <string name="preferences_interface_general_large_icons_title">Larger icons</string>
+    <string name="preferences_interface_general_large_icons_summary">Use extra large application icons in homescreen and drawer</string>
+</resources>
